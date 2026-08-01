@@ -1,0 +1,1 @@
+print("Sum of squares of the first",num,"natural numbers: ",sum)
